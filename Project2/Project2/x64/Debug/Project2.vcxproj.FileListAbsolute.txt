@@ -1,0 +1,4 @@
+C:\Users\Artyom\source\repos\Project2\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+C:\Users\Artyom\source\repos\Project2\Project2\x64\Debug\Project2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Artyom\source\repos\Project2\Project2\x64\Debug\Project2.MyForm.resources
+C:\Users\Artyom\source\repos\Project2\Project2\x64\Debug\Project2.vcxproj.GenerateResource.cache
